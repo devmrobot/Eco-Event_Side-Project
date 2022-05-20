@@ -1,0 +1,7 @@
+.map {
+    height: 100vh;
+    position: relative;
+    canvas, .mapboxgl-canvas {
+      height: 100vh !important;
+    }
+  }
